@@ -18,7 +18,7 @@ LIVE DEMO
 
 Run the simulation directly in your browser:
 
-[https://github.com/galenwilkerson/galenwilkerson.github.io/index.html](https://github.com/galenwilkerson/galenwilkerson.github.io/index.html)
+[https:galenwilkerson.github.io/index.html](https://github.com/galenwilkerson/galenwilkerson.github.io/index.html)
 
 The demo shows:
 
