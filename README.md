@@ -18,7 +18,7 @@ LIVE DEMO
 
 Run the simulation directly in your browser:
 
-[https://galenwilkerson.github.io/index.html]
+[https://galenwilkerson.github.io/percolation_entropy.html]
 
 The demo shows:
 
